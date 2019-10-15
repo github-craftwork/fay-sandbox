@@ -9,4 +9,4 @@ jobs:
       run: |
         echo "hello $NAME"
       env:
-        Name: Mary 
+        NAME: Mary 
